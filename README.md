@@ -1,0 +1,2 @@
+# FastShine
+a bigdata manager
